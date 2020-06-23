@@ -1,0 +1,10 @@
+body {
+  width: 100vw;
+  height: 100vh;
+  padding: 1rem;
+  font-family: Arial;
+}
+
+#text {
+  padding: .5rem;
+}
