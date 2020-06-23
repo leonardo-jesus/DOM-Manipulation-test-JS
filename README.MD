@@ -14,7 +14,7 @@
 <br>
 
 <p align="center">
-  <img src="./testing-dom-manipulation.png" alt="Testing Loops">
+  <img src="./testing-dom-manipulation.png" alt="Testing Dom Manipulation">
 </p>
 
 ## 🚀 Technologies
